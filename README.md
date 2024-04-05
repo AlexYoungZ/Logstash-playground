@@ -1,1 +1,5 @@
-This repository contains all of the configuration files used within the [Data Processing with Logstash course](https://l.codingexplained.com/r/logstash-course?src=github).
+- Mastered the fundamental concepts of Logstash, encompassing the handling of JSON/HTTP input, event processing and filtering, and event output to files, while understanding the execution model.
+- Successfully constructed and executed multiple Logstash pipelines designed to process and manipulate events, catering to diverse data processing requirements.
+- Implemented seamless data ingestion into Logstash from various sources and facilitated data output to multiple destinations, ensuring efficient data flow throughout the system.
+- Developed and deployed a robust Logstash pipeline tailored for handling Apache web server logs and stack traces. This included automated configuration reloading, parsing of requests using Grok patterns, and formatting events with data enrichment to facilitate comprehensive log analysis.
+- Leveraged Logstash for processing Filebeat events in conjunction with Elasticsearch and Kibana, thereby establishing a complete data pipeline solution for log aggregation, analysis, and visualization.
